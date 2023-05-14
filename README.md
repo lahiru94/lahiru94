@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Lahiru
 ![](https://img.freepik.com/free-vector/minimalist-white-abstract-wallpaper_23-2148816029.jpg)
-
-Co-founder and CTO [@avantrio](https://github.com/avantrio)
+<!-- 
+Co-founder and CTO [@avantrio](https://github.com/avantrio) -->
 
 Skills: DJANGO / REACT / JAVA / JS / HTML / CSS
 

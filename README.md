@@ -2,7 +2,7 @@
 
 I’m an engineer and a leader who builds and manages engineering teams that solve real problems with clean, scalable software. I co-founded Avantrio, where we help businesses streamline operations with open-source tech.
 
-You’ll mostly find me working with Python, Golang, React, and Odoo—whatever gets the job done. I keep things pragmatic, maintainable, and no-nonsense.
+You’ll mostly find me working with Python, Javascript, React, and Odoo—whatever gets the job done. I keep things pragmatic, maintainable, and no-nonsense.
 
 If you’re into building great software without the unnecessary fluff, we’ll probably get along. 🚀
 

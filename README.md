@@ -13,6 +13,6 @@ Skills: DJANGO / REACT / JAVA / JS / HTML / CSS
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lahiru94&show_icons=true&count_private=true)
+![](https://komarev.com/ghpvc/?username=yousseflasheen)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lahiru94.lahiru94&left_color=green&right_color=red)
 
